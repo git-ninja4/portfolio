@@ -12,7 +12,7 @@ Square Footage Analysis: Investigated the correlation between property prices an
 How to Run
 To reproduce the analysis or explore the dataset further, follow these steps:
 Clone this repository to your local machine.
-Import the dataset into your SQL database management system.
+Import the dataset into your SQL database management system - https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 Execute the SQL queries provided in sql_queries.sql to perform the analysis.
 
 Feedback and Contributions
