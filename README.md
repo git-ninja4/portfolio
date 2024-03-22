@@ -14,6 +14,7 @@ To reproduce the analysis or explore the dataset further, follow these steps:
 Clone this repository to your local machine.
 Import the dataset into your SQL database management system - https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 Execute the SQL queries provided in PORTFOLIO_PROJECT_SQL1.sql to perform the analysis.
+Explore the Tableau dashboards to gain insights from the data here - https://public.tableau.com/shared/KCBYMTCYR?:display_count=n&:origin=viz_share_link
 
 Feedback and Contributions
 Feedback and contributions are welcome! If you have any suggestions, questions, or improvements for this project, please feel free to open an issue or submit a pull request.
